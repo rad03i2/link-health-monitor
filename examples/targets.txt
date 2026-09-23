@@ -1,0 +1,3 @@
+# Example targets — replace with URLs you are authorized to monitor.
+https://example.com
+https://www.iana.org/domains/reserved
